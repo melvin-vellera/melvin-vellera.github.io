@@ -739,6 +739,11 @@ image{
     overflow: initial;
 }
 
+.swiper-wrapper{
+    display: flex;
+    align-items: center;
+}
+
 .portfolio__content{
     padding: 0 1.5rem;
 }
